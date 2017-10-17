@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:id="@+id/linearLayout1">
     <TextView
-        android:text="Which country has closest to 150 million people?"
+        android:text="Question"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="75.0dp"
